@@ -7,4 +7,3 @@ int main(){
     cout<<"c="<<c<<",a="<<a<<",b="<<b<<endl;
     return 0;
 }
-

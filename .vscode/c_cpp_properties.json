@@ -4,13 +4,13 @@
             "name": "MinGW64",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\Program Files\\mingw64\\include",
-				"C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++",
-                "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32",
-                "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward",
-                "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include",
-                "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed",
-                "C:\\Program Files\\mingw64\\x86_64-w64-mingw32\\include"  
+                "D:\\mingw64\\include",
+				"D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++",
+                "D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32",
+                "D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward",
+                "D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include",
+                "D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed",
+                "D:\\mingw64\\x86_64-w64-mingw32\\include"  
             ],
             "defines": [
                 "_DEBUG",
@@ -20,19 +20,19 @@
             "browse":{
                 "path":[
                     "${workspaceFolder}",
-                    "C:\\Program Files\\mingw64\\include",
-					"C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++",
-                    "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32",
-                    "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward",
-                    "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include",
-                    "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed",
-                    "C:\\Program Files\\mingw64\\x86_64-w64-mingw32\\include"
+                    "D:\\mingw64\\include",
+					"D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++",
+                    "D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32",
+                    "D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward",
+                    "D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include",
+                    "D:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed",
+                    "D:\\mingw64\\x86_64-w64-mingw32\\include"
                 ]
             },
-            "windowsSdkVersion": "8.1",
-            "compilerPath": "C:\\Program Files\\mingw64\\bin\\g++.exe",
-            "cStandard": "c11",
-            "cppStandard": "c++11",
+            "windowsSdkVersion": "12.2",
+            "compilerPath": "D:\\mingw64\\bin\\g++.exe",
+            "cStandard": "c23",
+            "cppStandard": "c++23",
             "intelliSenseMode": "windows-gcc-x64"
         }
     ],
