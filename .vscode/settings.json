@@ -1,5 +1,7 @@
 {
     "files.associations": {
         "iostream": "cpp"
-    }
+    },
+    "fileheader.Author": "KashiwaByte",
+    "fileheader.LastModifiedBy": "KashiwaByte"
 }
