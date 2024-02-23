@@ -29,7 +29,7 @@
                     "D:\\mingw64\\x86_64-w64-mingw32\\include"
                 ]
             },
-            "windowsSdkVersion": "12.2",
+            "windowsSdkVersion": "8.1",
             "compilerPath": "D:\\mingw64\\bin\\g++.exe",
             "cStandard": "c23",
             "cppStandard": "c++23",
