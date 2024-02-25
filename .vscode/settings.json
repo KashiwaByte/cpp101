@@ -2,7 +2,8 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "random": "cpp"
     },
     "fileheader.Author": "KashiwaByte",
     "fileheader.LastModifiedBy": "KashiwaByte"
