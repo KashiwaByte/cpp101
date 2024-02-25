@@ -3,7 +3,8 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "iomanip": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "tuple": "cpp"
     },
     "fileheader.Author": "KashiwaByte",
     "fileheader.LastModifiedBy": "KashiwaByte"
