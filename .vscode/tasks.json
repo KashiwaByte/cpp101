@@ -8,6 +8,8 @@
                 "-fdiagnostics-color=always",
                 "-std=c++2a",
                 "-g",
+                "-finput-charset=UTF-8",
+                "-fexec-charset=GBK",
                 "${file}",
                 "-o",
                 "${fileDirname}/build/${fileBasenameNoExtension}.exe"
